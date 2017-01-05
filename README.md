@@ -1,8 +1,5 @@
 # RealtimeTransactionProcessing
-This project is developed as part of coding assignment
-Assignment on Java
-
-Objective: To test candidates Design, implementation and testing skills.
+This project is developed as part of coding assignment on Java
 
 Problem statement
 
